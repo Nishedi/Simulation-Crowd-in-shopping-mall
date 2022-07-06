@@ -1,0 +1,2 @@
+File - map4x2.txt 
+FPS - 50 
