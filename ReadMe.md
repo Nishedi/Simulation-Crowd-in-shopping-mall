@@ -1,6 +1,6 @@
 # Symulacja zachowania się tłumu w galerii w przypadku gwałtownego zagrożenia
-## Konrad Pempera
 ## Amelia Draga
+## Konrad Pempera
 
 Zachowanie się tłumu w przypadku gwałtownego zagrożenia w galerii lub w innym wielkogabarytowym pomieszczeniu zamkniętym jest w dużej mierze nieprzewidywalne. W  wyniku zagrożenia, wszystkie osoby chcą jak najszybciej opuścić budynek, niemniej niektóre osoby kierują się rozsądkiem i drogowskazami, a inni panikują. 
 
