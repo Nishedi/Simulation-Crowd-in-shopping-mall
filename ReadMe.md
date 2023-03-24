@@ -2,6 +2,8 @@
 ## Amelia Draga
 ## Konrad Pempera
 
+LINK DO PREZENTACJI NA YOUTUBE https://youtu.be/IcGpo9gLs5k
+
 Zachowanie się tłumu w przypadku gwałtownego zagrożenia w galerii lub w innym wielkogabarytowym pomieszczeniu zamkniętym jest w dużej mierze nieprzewidywalne. W  wyniku zagrożenia, wszystkie osoby chcą jak najszybciej opuścić budynek, niemniej niektóre osoby kierują się rozsądkiem i drogowskazami, a inni panikują. 
 
 Celem symulacji jest wskazanie strategii postępowania, która daje największe szanse na szybkie opuszczenie budynku. 
